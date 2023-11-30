@@ -1,6 +1,6 @@
 How to run the code
 
-cd LaravelBasics
+cd 2nd-aug-laravel-ecommerce
 
 cp .env.example .env
 
